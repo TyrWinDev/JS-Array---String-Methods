@@ -1,3 +1,5 @@
+<h1>Javascript Array & String Methods</h1>
+
 A repo of some of the most used Array and String Methods for Javascript. Awesome to know early on your career as a dev. Get started for FREE on #100Devs, be sure to Check leonnoel.com for more info. !
 
 I will be updating this as i study more methods. This works awesome alongside the usage of Anki: https://apps.ankiweb.net/
