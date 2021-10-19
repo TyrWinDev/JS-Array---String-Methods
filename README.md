@@ -58,4 +58,4 @@ And if you want the best study tips to avoid the forgetting curve, be sure to ch
   <li><strong>trim()</strong></li>
 </ul>
 
-<h2>Want to learn how to code for free? Then be sure to check out #100Devs on https://www.leonnoel.com . The next cohort starts on November 2021</h2>
+<h2>Want to learn how to code for free? Then be sure to check out #100Devs on https://leonnoel.com/100devs/ . The next cohort starts on November 2021</h2>
