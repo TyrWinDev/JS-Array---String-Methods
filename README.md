@@ -37,3 +37,25 @@ And if you want the best study tips to avoid the forgetting curve, be sure to ch
 <h4>THREE</h4>
 <p>Sum all the numbers of the array except the highest and the lowest element (the value, not the index!). Example: [ 6, 2, 1, 8, 10 ] => 16 [ 1, 1, 11, 2, 3 ] => 6
 </p>
+
+
+<h2>String Methods</h2>
+<ul>
+  <li><strong>charAt()</strong></li>
+  <li><strong>charCodeAt()</strong></li>
+  <li><strong>concat()</strong></li>
+  <li><strong>includes()</strong></li>
+  <li><strong>indexOf()</strong></li>
+  <li><strong>match()</strong></li>
+  <li><strong>repeat()</strong></li>
+  <li><strong>replace()</strong></li>
+  <li><strong>search()</strong></li>
+  <li><strong>slice()</strong></li>
+  <li><strong>split()</strong></li>
+  <li><strong>substr()</strong></li>
+  <li><strong>toLowerCase()</strong></li>
+  <li><strong>toUpperCase()</strong></li>
+  <li><strong>trim()</strong></li>
+</ul>
+
+<h2>Want to learn how to code for free? Then be sure to check out #100Devs on leonnoel.com . The next cohort starts on November 2021</h2>
