@@ -3,6 +3,9 @@
 //SYNTAX
 reverse();
 
+//DESCRIPTION
+//The reverse method transposes the elements of the calling array object in place, mutating the array, and returning a reference to the array.
+
 //EXAMPLES
 const array1 = ["one", "two", "three"];
 console.log("array1:", array1);
