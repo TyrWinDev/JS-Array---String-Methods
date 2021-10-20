@@ -23,6 +23,10 @@ And if you want the best study tips to avoid the forgetting curve, be sure to ch
   <li><strong>includes()</strong></li>
   <li><strong>indexOf()</strong></li>
   <li><strong>every()</strong></li>
+  <li><strong>concat()</strong></li>
+  <li><strong>join()</strong></li>
+  <li><strong>reverse()</strong></li>
+  <li><strong>splice()</strong></li>
 </ul>
 
 <h3>Questions to Practice Common Array Methods</h3>
